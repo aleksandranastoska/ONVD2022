@@ -1,0 +1,250 @@
+body{
+    margin: auto;
+    width: 980px;
+    background: url(image6.jpg);
+}
+.content{
+    margin: auto;
+    text-align: center;
+    background-image: url(image7.jpg);
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 100%;
+    font-family: "Book Antiqua", Times, serif;
+}
+.content ul li{
+    list-style-type: none;
+    padding: 0 15px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.content ul{
+    float: left;
+    margin-left: -50px;
+    margin-bottom: -100px;
+    display: flex;
+    color: darkred;
+    font-weight: bold;
+}
+#firstimage{
+    width: 30%;
+    height: 300px;
+    float: right;
+    position: relative;
+    top: 30px;
+    right: 2px;
+}
+#title{
+    position: relative;
+    font-size: 26px;
+    font-weight: bold;
+    color: brown;
+    top: 60px;
+    right: 100px;
+    text-transform: uppercase;
+}
+#firstparagraph{
+    text-align: center;
+    font-size: 24px;
+    color: brown;
+    position: relative;
+    width: 40%;
+    top: 65px;
+    font-style: italic;
+    left: 165px;
+    font-weight: bold;
+}
+
+.list li:first-child{
+    position: relative;
+    left: 615px;
+    top: 90px;
+    font-size: 18px;
+    color: darkgoldenrod;
+    width: 200px;
+    text-align: left;
+}
+.list li:nth-child(2){
+    position: relative;
+    left: 385px;
+    top: 140px;
+    font-size: 18px;
+    color: darkgoldenrod;
+    width: 200px;
+    text-align: left;
+}
+#secondparagraph{
+    position: relative;
+    left: 620px;
+    top: 150px;
+    width: 25%;
+    color: darkgoldenrod;
+    //font-weight: bold;
+    font-size: 22px;
+    text-transform: uppercase;
+    text-align: left;
+}
+#finkilogo{
+    position: relative;
+    right: 230px;
+    top: 60px;
+    width: 158px;
+    height: 150px;
+}
+#finkiparagraph2{
+    position: relative;
+    right: 380px;
+    top: -60px;
+    color: brown;
+    font-weight: bold;
+}
+#finkiparagraph{
+    width: 30%;
+    text-align: left;
+    font-size: 18px;
+    position: relative;
+    left: 160px;
+    bottom: 70px;
+    color: brown;
+}
+h1{
+    color: brown;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    color: brown;
+    margin: auto;
+    text-align: center;
+    padding-left: 250px;
+}
+h4{
+    text-transform: uppercase;
+    color: brown;
+    background-color: ivory;
+    display: inline-block;
+    font-size: 22px;
+    position: relative;
+    right: 100px;
+    bottom: 50px;
+}
+#harrypotter{
+    width: 200px;
+    height: 250px;
+    position: relative;
+    right: 510px;
+    bottom: 170px;
+}
+#favoritebook{
+    background-color: ivory;
+    color: brown;
+    text-transform: uppercase;
+    font-size: 18px;
+    display: inline-block;
+    position: relative;
+    right: 600px;
+}
+#favoriteartist{
+    background-color: ivory;
+    color: brown;
+    text-transform: uppercase;
+    font-size: 18px;
+    display: inline-block;
+    position: relative;
+    bottom: 380px;
+    margin-left: -370px;
+}
+#favoritegame{
+    background-color: ivory;
+    color: brown;
+    text-transform: uppercase;
+    font-size: 18px;
+    display: inline-block;
+    position: relative;
+    bottom: 340px;
+    right: 400px;
+}
+#favoriteclub{
+    background-color: ivory;
+    color: brown;
+    text-transform: uppercase;
+    font-size: 18px;
+    display: inline-block;
+    position: relative;
+    bottom: 570px;
+    right: 100px;
+}
+#bookparagraph1{
+    position: relative;
+    color: brown;
+    font-size: 18px;
+    width: 150px;
+    top: 65px;
+    left: 10px;
+}
+#favoriteartistparagraph{
+    position: relative;
+    color: brown;
+    font-size: 16px;
+    width: 150px;
+    left: 360px;
+    bottom: 210px;
+}
+#favoritegameid{
+    position: relative;
+    color: brown;
+    font-size: 18px;
+    width: 22%;
+    bottom: 180px;
+    left: 20px;
+}
+#favoriteclubid{
+    position: relative;
+    color: brown;
+    font-size: 18px;
+    width: 22%;
+    left: 360px;
+    bottom: 400px;
+}
+#bookparagraph2{
+    width: 150px;
+    color: brown;
+    font-style: italic;
+    display: inline-block;
+    background-color: lightgreen;
+    position: relative;
+    bottom: 130px;
+    right: 340px;
+}
+#lana{
+    height: 150px;
+    width: 120px;
+    position: relative;
+    bottom: 485px;
+    left: 60px;
+}
+#sims{
+    position: relative;
+    bottom: 400px;
+    width: 200px;
+    right: 250px;
+}
+#barca{
+    position: relative;
+    width: 150px;
+    bottom: 640px;
+    right: 20px;
+}
+#lista{
+    color: brown;
+    font-weight: normal;
+    display: block;
+    position: relative;
+    left: 670px;
+    bottom: 1090px;
+}
+#hobbies{
+    position: relative;
+    left: 135px;
+    bottom: 1250px;
+}
